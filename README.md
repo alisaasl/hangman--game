@@ -4,4 +4,4 @@
 
 ## :link: Demo
 
-- <a target="_blank" href="https://effortless-sunflower-69d29f.netlify.app/"> Click Here </a> _UREK SOZLERIN_
+- <a target="_blank" href="https://effortless-sunflower-69d29f.netlify.app/"> Click Here </a> to play the game
